@@ -1,3 +1,7 @@
+# Links
+- [Thinking in Documents](https://www.mongodb.com/blog/post/thinking-documents-part-1) - excellent for those coming from a relational model.
+
+
 # MongoDB Installation
 
 The MongoDB installation documentation is excellent. Just note that they mention glibc. This is libc on ubuntu.
